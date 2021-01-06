@@ -10,3 +10,5 @@ Hey welcome ! so this is my Logs of learning FLutter
 - Animated Container & Gesture Detector
 - Flexible Widget
 - Stack & Align Widget
+- Image Widget
+- Navigator
