@@ -8,3 +8,5 @@ Hey welcome ! so this is my Logs of learning FLutter
 - Text Style
 - List & ListView
 - Animated Container & Gesture Detector
+- Flexible Widget
+- Stack & Align Widget
