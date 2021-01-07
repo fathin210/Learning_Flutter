@@ -12,3 +12,5 @@ Hey welcome ! so this is my Logs of learning FLutter
 - Stack & Align Widget
 - Image Widget
 - Navigator
+- Appbar and Appbar Style
+- Card
