@@ -17,3 +17,4 @@ Hey welcome ! so this is my Logs of learning FLutter
 - TextField & TextField Decoration
 - MediaQuery
 - InkWell
+- Opacity
