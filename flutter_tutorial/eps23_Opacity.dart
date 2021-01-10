@@ -40,7 +40,7 @@ class customCard extends StatelessWidget {
                 child: Stack(
                   children: [
                     Opacity(
-                      opacity: 0.2,
+                      opacity: 0.1,
                       child: Container(
                         decoration: BoxDecoration(
                             image: DecorationImage(
