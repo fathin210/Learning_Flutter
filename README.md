@@ -19,3 +19,6 @@ Hey welcome ! so this is my Logs of learning FLutter
 - InkWell
 - Opacity
 - Positioned and FloatingActionButton
+- Hero & ClipRRect
+- Appbar custom height with PreferredSize
+- TabBar
