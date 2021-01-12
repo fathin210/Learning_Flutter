@@ -22,3 +22,6 @@ Hey welcome ! so this is my Logs of learning FLutter
 - Hero & ClipRRect
 - Appbar custom height with PreferredSize
 - TabBar
+- Custom TabBar 
+- Show QR Code
+- Custom Button with Transform widget
