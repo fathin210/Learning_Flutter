@@ -25,3 +25,5 @@ Hey welcome ! so this is my Logs of learning FLutter
 - Custom TabBar 
 - Show QR Code
 - Custom Button with Transform widget
+- ShaderMask
+- Audio Player
